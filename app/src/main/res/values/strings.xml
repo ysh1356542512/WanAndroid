@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">WanAndroid</string>
+    <string name="writer">作者:</string>
+    <string name="sort">分类:</string>
+</resources>
